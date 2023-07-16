@@ -1,8 +1,9 @@
-.button {
+.MailButton {
   background-color: blue;
 }
 
 .body {
+  background-color: white;
   font-family: 'Inter', sans-serif;
   font-size: 18px;
   letter-spacing: 0.05em;
@@ -18,4 +19,13 @@
 
 .icon {
   color: blue;
+}
+
+.button {
+  border: none;
+}
+
+.dark {
+  color: white;
+  background-color: #252525;
 }
