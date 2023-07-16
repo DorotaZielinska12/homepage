@@ -1,3 +1,21 @@
-.button { 
+.button {
   background-color: blue;
+}
+
+.body {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  word-break: break-word;
+  padding-bottom: 108px;
+}
+
+.footer {
+  width: 48px;
+  height: 48px;
+  color: black;
+}
+
+.icon {
+  color: blue;
 }
