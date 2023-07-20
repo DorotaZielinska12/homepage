@@ -1,5 +1,7 @@
 .MailButton {
   background-color: blue;
+  text-decoration-color: white;
+  border: none;
 }
 
 .body {
@@ -23,9 +25,20 @@
 
 .button {
   border: none;
+  width: 48px;
+  height: 26px;
+  flex-shrink: 0;
 }
 
 .dark {
   color: white;
   background-color: #252525;
+}
+
+.img {
+  width: 398px;
+  height: 398px;
+  flex-shrink: 0;
+  border-radius: 384px;
+  background: #C4C4C4;
 }
