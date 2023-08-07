@@ -7,10 +7,6 @@
 .body {
   background-color: white;
   font-family: 'Inter', sans-serif;
-  font-size: 18px;
-  letter-spacing: 0.05em;
-  word-break: break-word;
-  padding-bottom: 108px;
 }
 
 .footer {
@@ -42,3 +38,12 @@
   border-radius: 384px;
   background: #C4C4C4;
 }
+
+.name {
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  letter-spacing: 1.9px;
+}
+
