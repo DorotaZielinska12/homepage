@@ -1,49 +1,9 @@
-.MailButton {
-  background-color: blue;
-  text-decoration-color: white;
-  border: none;
+html {
+  box-sizing: border-box;
 }
 
-.body {
-  background-color: white;
-  font-family: 'Inter', sans-serif;
+*,
+::before,
+::after {
+  box-sizing: inherit;
 }
-
-.footer {
-  width: 48px;
-  height: 48px;
-  color: black;
-}
-
-.icon {
-  color: blue;
-}
-
-.button {
-  border: none;
-  width: 48px;
-  height: 26px;
-  flex-shrink: 0;
-}
-
-.dark {
-  color: white;
-  background-color: #252525;
-}
-
-.img {
-  width: 398px;
-  height: 398px;
-  flex-shrink: 0;
-  border-radius: 384px;
-  background: #C4C4C4;
-}
-
-.name {
-  font-size: 38px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: normal;
-  letter-spacing: 1.9px;
-}
-
