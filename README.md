@@ -1,11 +1,11 @@
 # Homepage
 
 ## DEMO
-https://dorotazielinska12.github.io/homepage/inedx.html
+https://dorotazielinska12.github.io/personal.homepage/inedx.html
 
 ## DESCRIPTION
 
-Project made for more practic at fronted developer to improve myself. All information are true and correct. Looking for a job 😜
+Project made for more practic like a junior Fronted Developer to improve myself. All information are true and correct. I'm looking for a job 😜
 
 ### Tools used in this project
 
