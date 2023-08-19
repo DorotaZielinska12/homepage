@@ -1,7 +1,7 @@
 # Homepage
 
 ## DEMO
-https://dorotazielinska12.github.io/personal.homepage/inedx.html
+ https://dorotazielinska12.github.io/homepage/
 
 ## DESCRIPTION
 
